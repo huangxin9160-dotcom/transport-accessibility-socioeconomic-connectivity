@@ -1,0 +1,115 @@
+agglomeration_id,agglomeration_name,region,time_scale,S_i,N_i,coupling_regime,CCD_recalculated,regime_recalculated
+BG_1h_District/County Level,BG,North China,1h,0.255948135,1.849989577,Spatial Lag Type,0.8295265920690559,Spatial-Lagging
+BG_1h_City Level,BG,North China,1h,0.255948135,1.622732111,Low Coupling Type,0.8027858332231376,Low-Coupling
+BG_2h_District/County Level,BG,North China,2h,0.472067781,1.849989577,High Coupling Type,0.9667037660708048,High-Coupling
+BG_2h_City Level,BG,North China,2h,0.472067781,1.622732111,Social Lag Type,0.9355409407544241,Social-Lagging
+BG_3h_District/County Level,BG,North China,3h,0.649175978,1.849989577,High Coupling Type,1.0468463197877316,High-Coupling
+BG_3h_City Level,BG,North China,3h,0.649175978,1.622732111,Social Lag Type,1.0131000056203243,Social-Lagging
+BTH_1h_District/County Level,BTH,North China,1h,0.270959262,2.21130128,Spatial Lag Type,0.8798081476171071,Spatial-Lagging
+BTH_1h_City Level,BTH,North China,1h,0.270959262,1.82189027,Low Coupling Type,0.8382171731831153,Low-Coupling
+BTH_2h_District/County Level,BTH,North China,2h,0.521364657,2.21130128,High Coupling Type,1.036209038434198,High-Coupling
+BTH_2h_City Level,BTH,North China,2h,0.521364657,1.82189027,Social Lag Type,0.9872245595537595,Social-Lagging
+BTH_3h_District/County Level,BTH,North China,3h,0.719056587,2.21130128,High Coupling Type,1.1229301604735746,High-Coupling
+BTH_3h_City Level,BTH,North China,3h,0.719056587,1.82189027,Social Lag Type,1.069846133322987,Social-Lagging
+CC_1h_District/County Level,CC,Northeast China,1h,0.36886734,2.019001148,Spatial Lag Type,0.9289700069818562,Spatial-Lagging
+CC_1h_City Level,CC,Northeast China,1h,0.36886734,1.826720928,Spatial Lag Type,0.9060154467385899,Spatial-Lagging
+CC_2h_District/County Level,CC,Northeast China,2h,0.576317387,2.019001148,High Coupling Type,1.0386029982535614,High-Coupling
+CC_2h_City Level,CC,Northeast China,2h,0.576317387,1.826720928,High Coupling Type,1.012939440858738,High-Coupling
+CC_3h_District/County Level,CC,Northeast China,3h,0.702200917,2.019001148,High Coupling Type,1.0911877693936387,High-Coupling
+CC_3h_City Level,CC,Northeast China,3h,0.702200917,1.826720928,High Coupling Type,1.0642248586419347,High-Coupling
+CG_1h_District/County Level,CG,East China,1h,0.269416891,2.129776987,Spatial Lag Type,0.8703415908174101,Spatial-Lagging
+CG_1h_City Level,CG,East China,1h,0.269416891,1.608160773,Low Coupling Type,0.8113132545010069,Low-Coupling
+CG_2h_District/County Level,CG,East China,2h,0.479940228,2.129776987,High Coupling Type,1.0054959389305698,High-Coupling
+CG_2h_City Level,CG,East China,2h,0.479940228,1.608160773,Social Lag Type,0.9373011599217576,Social-Lagging
+CG_3h_District/County Level,CG,East China,3h,0.643239108,2.129776987,High Coupling Type,1.0818738977810478,High-Coupling
+CG_3h_City Level,CG,East China,3h,0.643239108,1.608160773,Social Lag Type,1.0084990103070612,Social-Lagging
+CP_1h_District/County Level,CP,East China,1h,0.29988249,1.865084402,Spatial Lag Type,0.8647934658994246,Spatial-Lagging
+CP_1h_City Level,CP,East China,1h,0.29988249,1.67187756,Low Coupling Type,0.8414704980869068,Low-Coupling
+CP_2h_District/County Level,CP,East China,2h,0.614529125,1.865084402,High Coupling Type,1.0346899723773624,High-Coupling
+CP_2h_City Level,CP,East China,2h,0.614529125,1.67187756,Social Lag Type,1.00678499636486,Social-Lagging
+CP_3h_District/County Level,CP,East China,3h,0.811870586,1.865084402,High Coupling Type,1.1092931324604214,High-Coupling
+CP_3h_City Level,CP,East China,3h,0.811870586,1.67187756,Social Lag Type,1.0793761533859858,Social-Lagging
+CS_1h_District/County Level,CS,Central China,1h,0.188383793,1.991827385,Spatial Lag Type,0.7826612082008714,Spatial-Lagging
+CS_1h_City Level,CS,Central China,1h,0.188383793,1.49911162,Low Coupling Type,0.7289863172105024,Low-Coupling
+CS_2h_District/County Level,CS,Central China,2h,0.364170903,1.991827385,Spatial Lag Type,0.9228672524752694,Spatial-Lagging
+CS_2h_City Level,CS,Central China,2h,0.364170903,1.49911162,Low Coupling Type,0.8595770335961982,Low-Coupling
+CS_3h_District/County Level,CS,Central China,3h,0.532944871,1.991827385,High Coupling Type,1.0150407935760684,High-Coupling
+CS_3h_City Level,CS,Central China,3h,0.532944871,1.49911162,Social Lag Type,0.9454293149757514,Social-Lagging
+CY_1h_District/County Level,CY,Central China,1h,0.221377262,2.123354562,Spatial Lag Type,0.8280162935609354,Spatial-Lagging
+CY_1h_City Level,CY,Central China,1h,0.221377262,1.768599049,Low Coupling Type,0.7910257109490518,Low-Coupling
+CY_2h_District/County Level,CY,Central China,2h,0.386619263,2.123354562,Spatial Lag Type,0.95186750716554,Spatial-Lagging
+CY_2h_City Level,CY,Central China,2h,0.386619263,1.768599049,Low Coupling Type,0.9093440279379137,Low-Coupling
+CY_3h_District/County Level,CY,Central China,3h,0.527292125,2.123354562,High Coupling Type,1.0286519440953525,High-Coupling
+CY_3h_City Level,CY,Central China,3h,0.527292125,1.768599049,Social Lag Type,0.9826982170819679,Social-Lagging
+GB_1h_District/County Level,GB,South China,1h,0.283194896,2.13070198,Spatial Lag Type,0.8813573544649409,Spatial-Lagging
+GB_1h_City Level,GB,South China,1h,0.283194896,1.713472553,Low Coupling Type,0.8346235668259916,Low-Coupling
+GB_2h_District/County Level,GB,South China,2h,0.564084147,2.13070198,High Coupling Type,1.0470481432512386,High-Coupling
+GB_2h_City Level,GB,South China,2h,0.564084147,1.713472553,Social Lag Type,0.9915286365193005,Social-Lagging
+GB_3h_District/County Level,GB,South China,3h,0.726586713,2.13070198,High Coupling Type,1.1154562476118,High-Coupling
+GB_3h_City Level,GB,South China,3h,0.726586713,1.713472553,Social Lag Type,1.0563094155891908,Social-Lagging
+GP_1h_District/County Level,GP,South China,1h,0.269306222,1.920065018,Spatial Lag Type,0.8479897067590656,Spatial-Lagging
+GP_1h_City Level,GP,South China,1h,0.269306222,1.649455162,Low Coupling Type,0.8163882124188507,Low-Coupling
+GP_2h_District/County Level,GP,South China,2h,0.485210037,1.920065018,High Coupling Type,0.9824521961889793,High-Coupling
+GP_2h_City Level,GP,South China,2h,0.485210037,1.649455162,Social Lag Type,0.9458397735735491,Social-Lagging
+GP_3h_District/County Level,GP,South China,3h,0.63781058,1.920065018,High Coupling Type,1.05196650892287,High-Coupling
+GP_3h_City Level,GP,South China,3h,0.63781058,1.649455162,Social Lag Type,1.0127635405226094,Social-Lagging
+HBOY_1h_District/County Level,HBOY,North China,1h,0.137405395,1.966389591,Spatial Lag Type,0.7209718992355498,Spatial-Lagging
+HBOY_1h_City Level,HBOY,North China,1h,0.137405395,1.100528867,Low Coupling Type,0.6235931068562724,Low-Coupling
+HBOY_2h_District/County Level,HBOY,North China,2h,0.258528847,1.966389591,Spatial Lag Type,0.8443930381551619,Spatial-Lagging
+HBOY_2h_City-level,HBOY,North China,2h,0.258528847,1.100528867,Low Coupling Type,0.7303442459120754,Low-Coupling
+HBOY_3h_District-county-level,HBOY,North China,3h,0.379749693,1.966389591,Spatial Lag Type,0.9295906557056237,Spatial-Lagging
+HBOY_3h_City-level,HBOY,North China,3h,0.379749693,1.100528867,Low Coupling Type,0.8040345618333721,Low-Coupling
+HC_1h_District-county-level,HC,East China,1h,0.173376343,2.01526234,Spatial Lag Type,0.7688300629000793,Spatial-Lagging
+HC_1h_City-level,HC,East China,1h,0.173376343,1.681456242,Low Coupling Type,0.7347994997976309,Low-Coupling
+HC_2h_District-county-level,HC,East China,2h,0.31276146,2.01526234,Spatial Lag Type,0.8910174412500786,Spatial-Lagging
+HC_2h_City-level,HC,East China,2h,0.31276146,1.681456242,Low Coupling Type,0.8515785239612997,Low-Coupling
+HC_3h_District-county-level,HC,East China,3h,0.441972774,2.01526234,High Coupling Type,0.9714753302959027,High-Coupling
+HC_3h_City-level,HC,East China,3h,0.441972774,1.681456242,Social Lag Type,0.9284751224145893,Social-Lagging
+LX_1h_District-county-level,LX,Northwest China,1h,0.14119549,2.083191672,Spatial Lag Type,0.7364402451531428,Spatial-Lagging
+LX_1h_City-level,LX,Northwest China,1h,0.14119549,1.777839535,Low Coupling Type,0.7078289906798584,Low-Coupling
+LX_2h_District-county-level,LX,Northwest China,2h,0.254700072,2.083191672,Spatial Lag Type,0.8534725834614711,Spatial-Lagging
+LX_2h_City-level,LX,Northwest China,2h,0.254700072,1.777839535,Low Coupling Type,0.8203145350901336,Low-Coupling
+LX_3h_District-county-level,LX,Northwest China,3h,0.354910767,2.083191672,Spatial Lag Type,0.9272825804542303,Spatial-Lagging
+LX_3h_City-level,LX,Northwest China,3h,0.354910767,1.777839535,Low Coupling Type,0.8912569584806473,Low-Coupling
+MRYR_1h_District-county-level,MRYR,Central Region,1h,0.325523375,1.957690023,Spatial Lag Type,0.8934731928814992,Spatial-Lagging
+MRYR_1h_City-level,MRYR,Central Region,1h,0.325523375,1.713397234,Low Coupling Type,0.8641916390855746,Low-Coupling
+MRYR_2h_District-county-level,MRYR,Central Region,2h,0.530210104,1.957690023,High Coupling Type,1.0093643966813965,High-Coupling
+MRYR_2h_City-level,MRYR,Central Region,2h,0.530210104,1.713397234,Social Lag Type,0.9762847720025649,Social-Lagging
+MRYR_3h_District-county-level,MRYR,Central Region,3h,0.671970818,1.957690023,High Coupling Type,1.0709608255824317,High-Coupling
+MRYR_3h_City-level,MRYR,Central Region,3h,0.671970818,1.713397234,Social Lag Type,1.0358625179023948,Social-Lagging
+NTS_1h_District-county-level,NTS,South China,1h,0.103665912,2.070071408,Spatial Lag Type,0.6806209688810586,Spatial-Lagging
+NTS_1h_City-level,NTS,South China,1h,0.103665912,1.611880386,Low Coupling Type,0.6393551913444984,Low-Coupling
+NTS_2h_District-county-level,NTS,South China,2h,0.186204316,2.070071408,Spatial Lag Type,0.787941123778683,Spatial-Lagging
+NTS_2h_City-level,NTS,South China,2h,0.186204316,1.611880386,Low Coupling Type,0.7401685681090961,Low-Coupling
+NTS_3h_District-county-level,NTS,South China,3h,0.26477353,2.070071408,Spatial Lag Type,0.8604288685182747,Spatial-Lagging
+NTS_3h_City-level,NTS,South China,3h,0.26477353,1.611880386,Low Coupling Type,0.8082614098331834,Low-Coupling
+SCL_1h_District-county-level,SCL,Southwest China,1h,0.290918678,2.07890488,Spatial Lag Type,0.8818638824159097,Spatial-Lagging
+SCL_1h_City-level,SCL,Southwest China,1h,0.290918678,1.66994259,Low Coupling Type,0.8348689063587108,Low-Coupling
+SCL_2h_District-county-level,SCL,Southwest,2h,0.487327662,2.07890488,High Coupling Type,1.0032609780009762,High-Coupling
+SCL_2h_City-level,SCL,Southwest,2h,0.487327662,1.66994259,Social Lag Type,0.9497966888057854,Social-Lagging
+SCL_3h_District-county-level,SCL,Southwest,3h,0.651236885,2.07890488,High Coupling Type,1.0786819268439312,High-Coupling
+SCL_3h_City-level,SCL,Southwest,3h,0.651236885,1.66994259,Social Lag Type,1.0211984168191313,Social-Lagging
+SP_1h_District-county-level,SP,East China,1h,0.279288416,1.844811563,Spatial Lag Type,0.8472298209425555,Spatial-Lagging
+SP_1h_City-level,SP,East China,1h,0.279288416,1.552231305,Low Coupling Type,0.8114323913723595,Low-Coupling
+SP_2h_District-county-level,SP,East China,2h,0.655760398,1.844811563,High Coupling Type,1.0487556159391005,High-Coupling
+SP_2h_City-level,SP,East China,2h,0.655760398,1.552231305,Social Lag Type,1.0044432530242062,Social-Lagging
+SP_3h_District-county-level,SP,East China,3h,0.879610037,1.844811563,High Coupling Type,1.1286532775798888,High-Coupling
+SP_3h_City-level,SP,East China,3h,0.879610037,1.552231305,Social Lag Type,1.080965052715013,Social-Lagging
+WCOTS_1h_District-county-level,WCOTS,West,1h,0.284992738,2.183061062,Spatial Lag Type,0.8881266851207671,Spatial-Lagging
+WCOTS_1h_City-level,WCOTS,West,1h,0.284992738,1.731489125,Low Coupling Type,0.838133868290292,Low-Coupling
+WCOTS_2h_District-county-level,WCOTS,West,2h,0.529224618,2.183061062,High Coupling Type,1.0367558160928296,High-Coupling
+WCOTS_2h_City-level,WCOTS,West,2h,0.529224618,1.731489125,Social Lag Type,0.9783966377456431,Social-Lagging
+WCOTS_3h_District-county-level,WCOTS,West,3h,0.703819558,2.183061062,High Coupling Type,1.1133502311219896,High-Coupling
+WCOTS_3h_City-level,WCOTS,West,3h,0.703819558,1.731489125,Social Lag Type,1.050679538860243,Social-Lagging
+YH_1h_District-county-level,YH,North China,1h,0.281497998,1.753928118,Low Coupling Type,0.8382465511467554,Low-Coupling
+YH_1h_City-level,YH,North China,1h,0.281497998,1.295580573,Low Coupling Type,0.777114360424898,Low-Coupling
+YH_2h_District-county-level,YH,North China,2h,0.48027488,1.753928118,Social Lag Type,0.9580218529656602,Social-Lagging
+YH_2h_City-level,YH,North China,2h,0.48027488,1.295580573,Social Lag Type,0.8881546109816839,Social-Lagging
+YH_3h_District-county-level,YH,North China,3h,0.615085918,1.753928118,Social Lag Type,1.0191471484975885,Social-Lagging
+YH_3h_City-level,YH,North China,3h,0.615085918,1.295580573,Social Lag Type,0.944822121129019,Social-Lagging
+YRD_1h_District-county-level,YRD,East China,1h,0.268594219,2.037715281,Spatial Lag Type,0.8601219697722394,Spatial-Lagging
+YRD_1h_City Level,YRD,East China,1h,0.268594219,1.756599789,Low Coupling Type,0.8287859342344692,Low-Coupling
+YRD_2h_District/County Level,YRD,East China,2h,0.603139125,2.037715281,High Coupling Type,1.0529075769434926,High-Coupling
+YRD_2h_City Level,YRD,East China,2h,0.603139125,1.756599789,Social Lag Type,1.0145479600419205,Social-Lagging
+YRD_3h_District/County Level,YRD,East China,3h,0.786420102,2.037715281,High Coupling Type,1.1251217678401726,High-Coupling
+YRD_3h_City Level,YRD,East China,3h,0.786420102,1.756599789,Social Lag Type,1.0841312374963257,Social-Lagging

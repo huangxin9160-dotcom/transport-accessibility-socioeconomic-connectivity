@@ -1,0 +1,5 @@
+origin_city,destination_city,year,mobility_flow,investment_flow,mobility_norm,investment_norm,composite_weight
+City_A,City_B,2020,12345,45,1.0,1.0,1.0
+City_A,City_C,2020,7231,37,0.07606142728093948,0.6923076923076923,0.38418455979431587
+City_B,City_A,2020,9844,19,0.5481481481481482,0.0,0.2740740740740741
+City_C,City_A,2020,6810,22,0.0,0.11538461538461539,0.057692307692307696

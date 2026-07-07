@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "Code for: Transport accessibility is insufficient for socioeconomic connectivity in large urban systems"
+message: "If you use this code, please cite the associated manuscript and the archived Zenodo release."
+type: software
+authors:
+  - family-names: "Liu"
+    given-names: "Yansui"
+  - family-names: "Huang"
+    given-names: "Xinxin"
+repository-code: "https://github.com/huangxin9160-dotcom/transport-accessibility-socioeconomic-connectivity"
+license: "MIT"
+version: "1.0.0"
+date-released: "2026-07-07"

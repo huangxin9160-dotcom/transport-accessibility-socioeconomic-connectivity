@@ -1,1 +1,5 @@
-
+origin_city,destination_city,year,mobility_flow
+City_A,City_B,2020,12345
+City_B,City_A,2020,9844
+City_A,City_C,2020,7231
+City_C,City_A,2020,6810

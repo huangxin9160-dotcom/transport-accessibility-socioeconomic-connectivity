@@ -1,0 +1,4 @@
+node_id,node_name,longitude,latitude,population,gdp,settlement_tier
+001,City_A,116.40,39.90,12000000,4020,Large city
+002,City_B,117.20,39.10,900000,520,Intermediate city
+003,City_C,118.30,38.80,180000,160,Small city

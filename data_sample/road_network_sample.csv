@@ -1,0 +1,4 @@
+edge_id,from_node,to_node,road_class,length_km,design_speed_kmh
+E001,N001,N002,expressway,10.5,100
+E002,N002,N003,national_highway,8.2,80
+E003,N003,N004,provincial_road,6.3,60

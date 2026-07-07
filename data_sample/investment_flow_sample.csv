@@ -1,0 +1,5 @@
+origin_city,destination_city,year,investment_flow
+City_A,City_B,2020,45
+City_B,City_A,2020,19
+City_A,City_C,2020,37
+City_C,City_A,2020,22
